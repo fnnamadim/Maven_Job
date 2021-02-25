@@ -1,1 +1,3 @@
-# Maven_Job
+# maven-project
+
+Simple Maven Project
